@@ -2,7 +2,7 @@
   "version_code": 3,
   "version_name": "1.3",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "2b6f... (lowercase hex)",
+  "sha256": "9fcf44e4857a9ef98a7f68a4c4f6b5234785273235c23dc7214f08555fb9d149",
   "mandatory": false,
   "changelog": "Fixes, improvements and override bugfix."
 }
