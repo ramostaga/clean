@@ -1,0 +1,87 @@
+{
+    "dishesPeople": [
+        "Omar",
+        "Ahmed",
+        "Othmane",
+        "Flitti",
+        "Imad"
+    ],
+    "tablePeople": [
+        "Benyahia",
+        "Ahmed",
+        "Islam",
+        "Omar",
+        "Slaimi",
+        "Othmane",
+        "Flitti",
+        "Imad"
+    ],
+    "vacations": [
+        {
+            "person": "Slaimi",
+            "start": "2025-07-29",
+            "days": 20,
+            "task": "all"
+        },
+        {
+            "person": "Slaimi",
+            "start": "2025-08-14",
+            "days": 4,
+            "task": "all"
+        },
+        {
+            "person": "Imad",
+            "start": "2025-07-21",
+            "days": 28,
+            "task": "all"
+        },
+        {
+            "person": "Flitti",
+            "start": "2025-07-21",
+            "days": 20,
+            "task": "all"
+        },
+        {
+            "person": "Othmane",
+            "start": "2025-07-21",
+            "days": 28,
+            "task": "all"
+        },
+        {
+            "person": "Islam",
+            "start": "2025-08-14",
+            "days": 4,
+            "task": "all"
+        },
+        {
+            "person": "Imad",
+            "start": "2025-08-22",
+            "days": 90,
+            "task": "all"
+        }
+    ],
+    "taskOffs": [
+        {
+            "task": "dishes",
+            "date": "2025-08-06"
+        }
+    ],
+    "overrides": [],
+    "startShift": {
+        "dishes": 0,
+        "table": 0
+    },
+    "startDates": {
+        "Ahmed": "2025-08-08"
+    },
+    "lastWorkedDates": {
+        "123": "2025-08-16",
+        "Omar": "2025-09-01",
+        "Ahmed": "2025-08-31",
+        "Flitti": "2025-08-25",
+        "Benyahia": "2025-08-30",
+        "Islam": "2025-09-02",
+        "Othmane": "2025-08-24",
+        "Slaimi": "2025-08-23"
+    }
+}
