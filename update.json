@@ -2,7 +2,7 @@
   "version_code": 5,
   "version_name": "1.5",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "722cfacedfb671dc7462eebbfdbdb7708e9c2d03bc163e3c9c9c6d64dc71880c",
+  "sha256": "134e0cf5b2e36ea49128d58a0010abc44313d6c3f8419868d399fa96a970132d",
   "mandatory": false,
   "changelog": "Fixes, improvements and override bugfix."
 }
