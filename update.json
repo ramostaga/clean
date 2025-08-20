@@ -1,6 +1,6 @@
 {
-  "version_code": 4,
-  "version_name": "1.4",
+  "version_code": 5,
+  "version_name": "1.5",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
   "sha256": "bbaf10f3397a27fb367a0e2aced37933db6681f062c6c76ed16571a9122a6e13",
   "mandatory": false,
