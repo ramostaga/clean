@@ -1,8 +1,8 @@
 {
-  "version_code": 12,
-  "version_name": "2.1",
+  "version_code": 13,
+  "version_name": "2.2",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "93316dad673dd6e800658841472f014df0f692090c1f12936c96fc7427caef0e",
+  "sha256": "45e6f06107b1a716d22a84fb4fc315793b04815259fffcc4cd1481e7886c3207",
   "mandatory": false,
   "changelog": "Fixes, improvements and override bugfix."
 }
