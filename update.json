@@ -4,5 +4,5 @@
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
   "sha256": "7ac6e8aeda218fe0f9b3511945346e426fe4c41d3825ceee2f902f95122fcfa9",
   "mandatory": false,
-  "changelog": "Fixes, improvements and override bugfix."
+  "changelog": "امكانية العمل بدون انترنيت, تصحيح بعض الأخطاء, تحسين الأداء"
 }
