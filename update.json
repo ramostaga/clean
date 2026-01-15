@@ -1,8 +1,8 @@
 {
-  "version_code": 17,
-  "version_name": "3.3",
+  "version_code": 18,
+  "version_name": "3.4",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "931057884e7ef54b4a20b51cd11b586f1ea399ff338533d2c71a589810cdc252",
+  "sha256": "2c3502923a69687d672f8a3a1d3df6fa20734af43a57761fc35ffeec6447fa0b",
   "mandatory": false,
   "changelog": "تصحيح بعض الأخطاء, تحسين الأداء"
 }
