@@ -1,8 +1,8 @@
 {
-  "version_code": 25,
-  "version_name": "4.6",
+  "version_code": 26,
+  "version_name": "4.7",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "930952ecfb1d27ff133273b763c7978302f440f61589f85ce081f7aa69577aa9",
+  "sha256": "e440cbfb2161cf462d66a107e91fb23461fa0cd76e215f4607452cba8bb84c26",
   "mandatory": false,
   "changelog": "تصحيح بعض الأخطاء, تحسين الأداء"
 }
