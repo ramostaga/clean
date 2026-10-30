@@ -1,8 +1,8 @@
 {
-  "version_code": 28,
-  "version_name": "5",
+  "version_code": 29,
+  "version_name": "6",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "113f6a30954193ad33f2c14a36d9710deaff06a4f140da30979761c347171bd2",
+  "sha256": "7cd9cd9e1ed7ecaf801c50b8d6db73d247fa4722a2d42e8cd2cc675b28a46b35",
   "mandatory": false,
   "changelog": "تصحيح بعض الأخطاء, تحسين الأداء"
 }
