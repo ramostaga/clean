@@ -1,8 +1,11 @@
 {
-  "version_code": 29,
-  "version_name": "6",
-  "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "7cd9cd9e1ed7ecaf801c50b8d6db73d247fa4722a2d42e8cd2cc675b28a46b35",
-  "mandatory": false,
-  "changelog": "تصحيح بعض الأخطاء, تحسين الأداء"
+    "version_code":  29,
+    "version_name":  "6",
+    "apk_url":  "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
+    "sha256":  "",
+    "mandatory":  false,
+    "changelog":  "Update",
+    "web_version":  1,
+    "web_zip_url":  "https://github.com/ramostaga/clean/raw/refs/heads/main/web.zip",
+    "web_changelog":  "Web assets update"
 }
