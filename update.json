@@ -2,7 +2,7 @@
   "version_code": 33,
   "version_name": "6.4",
   "apk_url": "https://github.com/ramostaga/clean/raw/refs/heads/main/app-release.apk",
-  "sha256": "4d1c47cc64621d9a1612a8d47593722e639bb01f81e9815017f70521e8e0905a",
+  "sha256": "2fe0ea49258b2d6d737eca0ffed85ea415cda48e38c1cc64533a658a82cf1819",
   "mandatory": false,
   "changelog": "Update"
 }
