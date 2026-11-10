@@ -1,5 +1,5 @@
 {
-    "web_version":  4,
+    "web_version":  6,
     "web_zip_url":  "https://github.com/ramostaga/clean/raw/refs/heads/main/web.zip",
-    "web_changelog":  "Clean minimalist Correction UI without Excel cell names"
+    "web_changelog":  "Dedicated Today button beside menu, enlarged menu cards, and aligned app menu button"
 }
